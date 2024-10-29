@@ -8,6 +8,8 @@ import com.test.demo.services.UserService;
 
 import java.util.List;
 
+
+//controller
 @RestController
 @RequestMapping("/api/users")
 public class UserController {
